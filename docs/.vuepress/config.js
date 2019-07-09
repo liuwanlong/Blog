@@ -1,5 +1,7 @@
 module.exports = {
     title: "初来乍到",
+    base: "/<REPO>/",
+    repo: 'https://github.com/liuwanlong/Blog',
     description: "我只是一个小前端",
     themeConfig: {
         nav: [
