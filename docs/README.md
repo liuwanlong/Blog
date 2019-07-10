@@ -31,5 +31,5 @@ actionLink: /guide/
 ## 💊个人项目
 
 - PWA To-do(正在构建中)
-- cnbeta-新闻(爬虫)
-- 博客(基于VuePress)
+- [cnbeta-新闻(爬虫)](https://news.battleangel.online/)
+- [博客(基于VuePress)](https://battleangel.online/)
