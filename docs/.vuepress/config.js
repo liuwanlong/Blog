@@ -1,8 +1,11 @@
 module.exports = {
-    title: "初来乍到",
-    base: "/<REPO>/",
-    repo: 'https://github.com/liuwanlong/Blog',
-    description: "我只是一个小前端",
+    locales: {
+        "/": {
+            lang: "zh-cmn-Hans",
+            title: "初来乍到",
+            description: "技术(不止是前端)、分享、记录、学习，Welcome！"
+        },
+    },
     themeConfig: {
         nav: [
             { text: "导航", link: '/guide/' },
@@ -49,5 +52,15 @@ module.exports = {
                 },
             ]
         }
-    }
+    },
+    plugins: [
+        [
+            '@vuepress/google-analytics',
+            {
+                'ga': 'UA-143602646-1'
+            }
+        ],
+        '@vuepress/back-to-top',
+        '@vuepress/nprogress'
+    ]
 }
