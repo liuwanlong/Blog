@@ -4,7 +4,7 @@ actionText: 查看导航✈️
 actionLink: /guide/
 ---
 ****
-## 🌐前端
+## 🌐 前端
 
 - 算法
 - 设计模式
@@ -13,23 +13,24 @@ actionLink: /guide/
 - Mobx
 - Vue
 
-## 🖥Linux
+## 🖥 Linux
 
 - 环境安装
 - Nginx相关
 - 前端自动化部署
 
-## ⛓NodeJS
+## ⛓ NodeJS
 
 - 爬虫
 - Express
 
-## 📱移动端
+## 📱 移动端
 
 - Swift开发心得
 
-## 💊个人项目
+## 💊 个人项目
 
 - PWA To-do(正在构建中)
+- PWA 便签(正在构建中)
 - [cnbeta-新闻(爬虫)](https://news.battleangel.online/)
 - [博客(基于VuePress)](https://battleangel.online/)
