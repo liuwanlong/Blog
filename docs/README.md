@@ -8,10 +8,10 @@ footer: MIT Licensed | Copyright © 2018-present
 ## ✅ 最新文章
 
 ### 问题系列
-- [Echarts在微信小程序苹果设备环境下渲染宽度问题](/大前端/问题记录/2019/fix0719)
+- [Echarts在微信小程序苹果设备环境下渲染宽度问题](/大前端/问题记录/2019/fix0719.html)
 
 ### 杂谈
-- [当我想用TypeScript的时候](/杂谈/2019/talk0719)
+- [当我想用TypeScript的时候](/杂谈/2019/talk0719.html)
 
 ## 💊 个人项目
 
