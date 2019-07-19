@@ -3,30 +3,9 @@ home: true
 actionText: 查看导航✈️
 actionLink: /guide/
 ---
-****
-## 🌐 前端
 
-- 算法
-- 设计模式
-- ES6
-- React
-- Mobx
-- Vue
-
-## 🖥 Linux
-
-- 环境安装
-- Nginx相关
-- 前端自动化部署
-
-## ⛓ NodeJS
-
-- 爬虫
-- Express
-
-## 📱 移动端
-
-- Swift开发心得
+## 最新文章
+- [Echarts在微信小程序苹果设备环境下渲染宽度问题](/大前端/问题记录/fix20190719)
 
 ## 💊 个人项目
 
