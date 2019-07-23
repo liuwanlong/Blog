@@ -7,6 +7,9 @@ footer: MIT Licensed | Copyright © 2018-present
 
 ## ✅ 最新文章
 
+### Flutter
+- [Flutter安装问题解决](/flutter/flutter20190723.html)
+
 ### 问题系列
 - [Echarts在微信小程序苹果设备环境下渲染宽度问题](/大前端/问题记录/2019/fix0719.html)
 
