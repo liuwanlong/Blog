@@ -31,11 +31,9 @@ module.exports = {
       //         },
       //     ]
       // },
-      // {
-      //     text: "烂笔头", items: [
-      //         { text: "学习周记", link: '/笔记/学习周记' }
-      //     ]
-      // },
+      {
+          text: "问题记录", link: '/问题记录/'
+      },
       { text: "关于网站", link: '/about/' },
       { text: "GitHub", link: 'https://github.com/liuwanlong' },
     ],
