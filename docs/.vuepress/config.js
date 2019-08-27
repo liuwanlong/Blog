@@ -3,7 +3,7 @@ module.exports = {
     "/": {
       lang: "zh-cmn-Hans",
       title: "初来乍到",
-      description: "技术(不止是前端)、分享、记录、学习，Welcome！"
+      description: "生活不精致，code要精致！"
     },
   },
   configureWebpack: {
