@@ -2,7 +2,6 @@
 home: true
 actionText: 查看导航✈️
 actionLink: /guide/
-footer: MIT Licensed | Copyright © 2018-present
 ---
 
 
@@ -29,5 +28,9 @@ footer: MIT Licensed | Copyright © 2018-present
 - PWA 便签(正在构建中)
 - [cnbeta-新闻(爬虫)](https://news.battleangel.online/)
 - [博客(基于VuePress)](https://battleangel.online/)
+
+---
+
+<Footer/>
 
 
