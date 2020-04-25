@@ -1,3 +1,6 @@
+### Go
+- [Go mod开发模式，告别$GOPATH](/go/20200424Go-mod模式.html)
+
 ### Flutter
 - [Flutter安装问题解决](/flutter/flutter20190723.html)
 
@@ -28,7 +31,3 @@
 
 - 爬虫
 - Express
-
-## 📱 移动端
-
-- Swift开发心得

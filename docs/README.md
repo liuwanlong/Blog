@@ -7,6 +7,9 @@ actionLink: /guide/
 
 ## ✅ 最新文章
 
+### Go
+- [Go mod开发模式，告别$GOPATH](/go/20200424Go-mod模式.html)
+
 ### Flutter
 
 - [Flutter安装问题解决](/flutter/flutter20190723.html)
@@ -23,10 +26,8 @@ actionLink: /guide/
 
 
 ## 💊 个人项目
-
-- PWA To-do(正在构建中)
-- PWA 便签(正在构建中)
-- [cnbeta-新闻(爬虫)](https://news.battleangel.online/)
+- 股票行情图表(构建中)
+- [cnbeta-新闻(爬虫-服务器已回收)](https://news.battleangel.online/)
 - [博客(基于VuePress)](https://battleangel.online/)
 
 ---
